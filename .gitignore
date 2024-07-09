@@ -60,6 +60,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### SSL Files ###
-src/main/resources/certs/

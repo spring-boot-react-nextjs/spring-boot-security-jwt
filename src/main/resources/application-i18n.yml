@@ -1,0 +1,10 @@
+##############################
+####### I18N SETTINGS ########
+##############################
+spring:
+  messages:
+    basename: i18n/messages
+    encoding: UTF-8
+    cache-duration: 60
+    fallback-to-system-locale: false
+    logging-language: en
